@@ -1,0 +1,66 @@
+C:\Users\Adam\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfo.cs
+C:\Users\Adam\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.deps.json
+C:\Users\Adam\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.json
+C:\Users\Adam\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.dll
+C:\Users\Adam\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.pdb
+C:\Users\Adam\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.dll
+C:\Users\Adam\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.pdb
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.deps.json
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.json
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.dev.json
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.dll
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.pdb
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.csprojResolveAssemblyReference.cache
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfoInputs.cache
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfo.cs
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.dll
+C:\Users\BarrosoA\Desktop\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.pdb
+H:\Unit2\Assignment\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.deps.json
+H:\Unit2\Assignment\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.json
+H:\Unit2\Assignment\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.dev.json
+H:\Unit2\Assignment\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.dll
+H:\Unit2\Assignment\Assignment2\Chess\bin\Debug\netcoreapp2.0\Chess.pdb
+H:\Unit2\Assignment\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.csprojResolveAssemblyReference.cache
+H:\Unit2\Assignment\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.csproj.CoreCompileInputs.cache
+H:\Unit2\Assignment\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfoInputs.cache
+H:\Unit2\Assignment\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfo.cs
+H:\Unit2\Assignment\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.dll
+H:\Unit2\Assignment\Assignment2\Chess\obj\Debug\netcoreapp2.0\Chess.pdb
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\bin\Debug\netcoreapp2.0\Chess.deps.json
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.json
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\bin\Debug\netcoreapp2.0\Chess.dll
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\bin\Debug\netcoreapp2.0\Chess.pdb
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\obj\Debug\netcoreapp2.0\Chess.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\obj\Debug\netcoreapp2.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfo.cs
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\obj\Debug\netcoreapp2.0\Chess.dll
+C:\Users\Adam\Desktop\Assignment2Finale\Chess\obj\Debug\netcoreapp2.0\Chess.pdb
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\bin\Debug\netcoreapp2.0\Chess.deps.json
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.json
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.dev.json
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\bin\Debug\netcoreapp2.0\Chess.dll
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\bin\Debug\netcoreapp2.0\Chess.pdb
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\obj\Debug\netcoreapp2.0\Chess.csprojAssemblyReference.cache
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\obj\Debug\netcoreapp2.0\Chess.csproj.CoreCompileInputs.cache
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfoInputs.cache
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfo.cs
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\obj\Debug\netcoreapp2.0\Chess.dll
+E:\folder folder\Code Practicing\Assignment2FinaleV2\Chess\obj\Debug\netcoreapp2.0\Chess.pdb
+C:\Users\Adam\Desktop\ChessAi\Chess\obj\Debug\netcoreapp2.0\Chess.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\ChessAi\Chess\obj\Debug\netcoreapp2.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\ChessAi\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\ChessAi\Chess\obj\Debug\netcoreapp2.0\Chess.AssemblyInfo.cs
+C:\Users\Adam\Desktop\ChessAi\Chess\obj\Debug\netcoreapp2.0\Chess.dll
+C:\Users\Adam\Desktop\ChessAi\Chess\obj\Debug\netcoreapp2.0\Chess.pdb
+C:\Users\Adam\Desktop\ChessAi\Chess\bin\Debug\netcoreapp2.0\Chess.deps.json
+C:\Users\Adam\Desktop\ChessAi\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.json
+C:\Users\Adam\Desktop\ChessAi\Chess\bin\Debug\netcoreapp2.0\Chess.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\ChessAi\Chess\bin\Debug\netcoreapp2.0\Chess.dll
+C:\Users\Adam\Desktop\ChessAi\Chess\bin\Debug\netcoreapp2.0\Chess.pdb

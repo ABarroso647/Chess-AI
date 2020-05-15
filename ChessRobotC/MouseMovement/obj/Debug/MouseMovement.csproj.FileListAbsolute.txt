@@ -1,0 +1,21 @@
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\MouseMovement\MouseMovement\bin\Debug\MouseMovement.exe.config
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\MouseMovement\MouseMovement\bin\Debug\MouseMovement.exe
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\MouseMovement\MouseMovement\bin\Debug\MouseMovement.pdb
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\MouseMovement\MouseMovement\obj\Debug\MouseMovement.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\MouseMovement\MouseMovement\obj\Debug\MouseMovement.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\MouseMovement\MouseMovement\obj\Debug\MouseMovement.exe
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\MouseMovement\MouseMovement\obj\Debug\MouseMovement.pdb
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\ChessRobotC\MouseMovement\bin\Debug\MouseMovement.exe.config
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\ChessRobotC\MouseMovement\bin\Debug\MouseMovement.exe
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\ChessRobotC\MouseMovement\bin\Debug\MouseMovement.pdb
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\ChessRobotC\MouseMovement\obj\Debug\MouseMovement.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\ChessRobotC\MouseMovement\obj\Debug\MouseMovement.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\ChessRobotC\MouseMovement\obj\Debug\MouseMovement.exe
+C:\Users\Adam\Desktop\Waterloo Work\1a\GENE\ChessRobotC\MouseMovement\obj\Debug\MouseMovement.pdb
+C:\Users\Adam\Desktop\ChessRobotC\MouseMovement\bin\Debug\MouseMovement.exe.config
+C:\Users\Adam\Desktop\ChessRobotC\MouseMovement\bin\Debug\MouseMovement.exe
+C:\Users\Adam\Desktop\ChessRobotC\MouseMovement\bin\Debug\MouseMovement.pdb
+C:\Users\Adam\Desktop\ChessRobotC\MouseMovement\obj\Debug\MouseMovement.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\ChessRobotC\MouseMovement\obj\Debug\MouseMovement.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\ChessRobotC\MouseMovement\obj\Debug\MouseMovement.exe
+C:\Users\Adam\Desktop\ChessRobotC\MouseMovement\obj\Debug\MouseMovement.pdb
